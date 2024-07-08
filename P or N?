@@ -1,0 +1,6 @@
+x = int(input('number: '))
+
+if x < 0:
+  print('thats negative')
+elif x > 0:
+  print('thats a positive')
